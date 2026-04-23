@@ -17,7 +17,7 @@ export function Calculator() {
   // 3. Aquí va lo que se dibuja en la pantalla
   return (
     <div>
-      <h2>Calculadora en React</h2>
+      <h2>Calculadora  React</h2>
       
       {/* Contenedor para los inputs */}
       <div style={{ marginBottom: '20px' }}>
