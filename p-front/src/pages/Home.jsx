@@ -18,6 +18,10 @@ export function Home() {
         <Link to="/calculadora">
           <button>Ir a la Calculadora</button>
         </Link>
+
+        <Link to="/suma">
+          <button>Ir a la Suma</button>
+        </Link> 
         
       </div>
     </div>
